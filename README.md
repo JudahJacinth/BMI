@@ -15,4 +15,4 @@ Creating a simple BMI application to be developed and deployed using a CI/CD pip
 
 ## Author
 
-Judah Jos Jacinth
+Judah Jos Jacinth (https://www.linkedin.com/in/judahjacinth/)
