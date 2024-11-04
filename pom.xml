@@ -10,8 +10,7 @@
 	</parent>
 	<groupId>com.bmiWebApp</groupId>
 	<artifactId>bmi</artifactId>
-	<version>bmiApp</version>
-	<name>bmi</name>
+	<name>bmiApp</name>
 	<description>Spring Boot app to calculate BMI</description>
 	<url/>
 	<licenses>
